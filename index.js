@@ -1,3 +1,3 @@
-var a = 5, b = 10
+var a, b
 
-return add(a, b)
+function 
