@@ -27,5 +27,5 @@ function dec(n) {
 }
 
 function makeInt(n) {
-  var 
+  var number = n
 }
