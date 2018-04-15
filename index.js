@@ -1,3 +1,3 @@
 var a, b
 
-function (add)
+function add(a, b)
