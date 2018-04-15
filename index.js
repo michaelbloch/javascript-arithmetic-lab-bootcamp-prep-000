@@ -28,4 +28,5 @@ function dec(n) {
 
 function makeInt(n) {
   var number = n
+  return 
 }
